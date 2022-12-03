@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/LectureExamples/Example001/bin/Debug/net6.0/Example001
+/Users/yulia/Desktop/LectureExamples/Example001/bin/Debug/net6.0/Example001.deps.json
+/Users/yulia/Desktop/LectureExamples/Example001/bin/Debug/net6.0/Example001.runtimeconfig.json
+/Users/yulia/Desktop/LectureExamples/Example001/bin/Debug/net6.0/Example001.dll
+/Users/yulia/Desktop/LectureExamples/Example001/bin/Debug/net6.0/ref/Example001.dll
+/Users/yulia/Desktop/LectureExamples/Example001/bin/Debug/net6.0/Example001.pdb
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/Example001.GlobalUsings.g.cs
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/Example001.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/Example001.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/Example001.AssemblyInfo.cs
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/Example001.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/Example001.dll
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/ref/Example001.dll
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/Example001.pdb
+/Users/yulia/Desktop/LectureExamples/Example001/obj/Debug/net6.0/Example001.genruntimeconfig.cache
