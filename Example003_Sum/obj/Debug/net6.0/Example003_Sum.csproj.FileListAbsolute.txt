@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/bin/Debug/net6.0/Example003_Sum
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.deps.json
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.runtimeconfig.json
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.dll
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/bin/Debug/net6.0/ref/Example003_Sum.dll
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.pdb
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.GlobalUsings.g.cs
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfo.cs
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.dll
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/ref/Example003_Sum.dll
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.pdb
+/Users/yulia/Desktop/LectureExamples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.genruntimeconfig.cache
