@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.deps.json
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.runtimeconfig.json
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.dll
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/bin/Debug/net6.0/ref/Example005_IfElse.dll
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.pdb
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.GlobalUsings.g.cs
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfo.cs
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.dll
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/ref/Example005_IfElse.dll
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.pdb
+/Users/yulia/Desktop/LectureExamples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.genruntimeconfig.cache
