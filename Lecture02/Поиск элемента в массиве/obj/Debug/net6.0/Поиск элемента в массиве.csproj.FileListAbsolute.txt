@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/bin/Debug/net6.0/Поиск элемента в массиве
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/bin/Debug/net6.0/Поиск элемента в массиве.deps.json
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/bin/Debug/net6.0/Поиск элемента в массиве.runtimeconfig.json
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/bin/Debug/net6.0/Поиск элемента в массиве.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/bin/Debug/net6.0/ref/Поиск элемента в массиве.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/bin/Debug/net6.0/Поиск элемента в массиве.pdb
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/Поиск элемента в массиве.GlobalUsings.g.cs
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/Поиск элемента в массиве.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/Поиск элемента в массиве.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/Поиск элемента в массиве.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/Поиск элемента в массиве.AssemblyInfo.cs
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/Поиск элемента в массиве.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/Поиск элемента в массиве.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/ref/Поиск элемента в массиве.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/Поиск элемента в массиве.pdb
+/Users/yulia/Desktop/LectureExamples/Lecture02/Поиск элемента в массиве/obj/Debug/net6.0/Поиск элемента в массиве.genruntimeconfig.cache

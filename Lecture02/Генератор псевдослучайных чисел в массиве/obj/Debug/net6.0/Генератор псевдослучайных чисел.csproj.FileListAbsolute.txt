@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/Генератор псевдослучайных чисел.GlobalUsings.g.cs
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/Генератор псевдослучайных чисел.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/Генератор псевдослучайных чисел.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/Генератор псевдослучайных чисел.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/Генератор псевдослучайных чисел.AssemblyInfo.cs
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/Генератор псевдослучайных чисел.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/bin/Debug/net6.0/Генератор псевдослучайных чисел
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/bin/Debug/net6.0/Генератор псевдослучайных чисел.deps.json
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/bin/Debug/net6.0/Генератор псевдослучайных чисел.runtimeconfig.json
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/bin/Debug/net6.0/Генератор псевдослучайных чисел.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/bin/Debug/net6.0/ref/Генератор псевдослучайных чисел.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/bin/Debug/net6.0/Генератор псевдослучайных чисел.pdb
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/Генератор псевдослучайных чисел.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/ref/Генератор псевдослучайных чисел.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/Генератор псевдослучайных чисел.pdb
+/Users/yulia/Desktop/LectureExamples/Lecture02/Генератор псевдослучайных чисел/obj/Debug/net6.0/Генератор псевдослучайных чисел.genruntimeconfig.cache

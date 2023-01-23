@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Нахождение элемента массива с использование метода/1.0.0": {
+        "runtime": {
+          "Нахождение элемента массива с использование метода.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Нахождение элемента массива с использование метода/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

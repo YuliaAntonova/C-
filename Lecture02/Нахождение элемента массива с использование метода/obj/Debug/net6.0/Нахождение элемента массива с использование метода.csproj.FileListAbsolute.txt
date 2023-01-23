@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/Нахождение элемента массива с использование метода.GlobalUsings.g.cs
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/Нахождение элемента массива с использование метода.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/Нахождение элемента массива с использование метода.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/Нахождение элемента массива с использование метода.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/Нахождение элемента массива с использование метода.AssemblyInfo.cs
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/Нахождение элемента массива с использование метода.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/bin/Debug/net6.0/Нахождение элемента массива с использование метода
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/bin/Debug/net6.0/Нахождение элемента массива с использование метода.deps.json
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/bin/Debug/net6.0/Нахождение элемента массива с использование метода.runtimeconfig.json
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/bin/Debug/net6.0/Нахождение элемента массива с использование метода.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/bin/Debug/net6.0/ref/Нахождение элемента массива с использование метода.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/bin/Debug/net6.0/Нахождение элемента массива с использование метода.pdb
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/Нахождение элемента массива с использование метода.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/ref/Нахождение элемента массива с использование метода.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/Нахождение элемента массива с использование метода.pdb
+/Users/yulia/Desktop/LectureExamples/Lecture02/Нахождение элемента массива с использование метода/obj/Debug/net6.0/Нахождение элемента массива с использование метода.genruntimeconfig.cache

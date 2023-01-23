@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/bin/Debug/net6.0/Функции стихийно
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/bin/Debug/net6.0/Функции стихийно.deps.json
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/bin/Debug/net6.0/Функции стихийно.runtimeconfig.json
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/bin/Debug/net6.0/Функции стихийно.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/bin/Debug/net6.0/ref/Функции стихийно.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/bin/Debug/net6.0/Функции стихийно.pdb
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/Функции стихийно.GlobalUsings.g.cs
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/Функции стихийно.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/Функции стихийно.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/Функции стихийно.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/Функции стихийно.AssemblyInfo.cs
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/Функции стихийно.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/Функции стихийно.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/ref/Функции стихийно.dll
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/Функции стихийно.pdb
+/Users/yulia/Desktop/LectureExamples/Lecture02/Функции стихийно/obj/Debug/net6.0/Функции стихийно.genruntimeconfig.cache

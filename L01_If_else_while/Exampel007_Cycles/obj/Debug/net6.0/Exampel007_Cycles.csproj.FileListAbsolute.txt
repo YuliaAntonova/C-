@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/bin/Debug/net6.0/Exampel007_Cycles
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/bin/Debug/net6.0/Exampel007_Cycles.deps.json
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/bin/Debug/net6.0/Exampel007_Cycles.runtimeconfig.json
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/bin/Debug/net6.0/Exampel007_Cycles.dll
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/bin/Debug/net6.0/ref/Exampel007_Cycles.dll
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/bin/Debug/net6.0/Exampel007_Cycles.pdb
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/Exampel007_Cycles.GlobalUsings.g.cs
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/Exampel007_Cycles.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/Exampel007_Cycles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/Exampel007_Cycles.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/Exampel007_Cycles.AssemblyInfo.cs
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/Exampel007_Cycles.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/Exampel007_Cycles.dll
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/ref/Exampel007_Cycles.dll
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/Exampel007_Cycles.pdb
+/Users/yulia/Desktop/LectureExamples/Exampel007_Cycles/obj/Debug/net6.0/Exampel007_Cycles.genruntimeconfig.cache
